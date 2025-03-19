@@ -72,8 +72,8 @@ Operating System: Windows 10/11 (64-bit) & macOS (Intel chip)
 ### 2. Installation
 #### Step 1: Download OpenChat Installer
 - OpenChat User Guide (this document) provides download, installation, and usage instructions.
-- OpenChat Installer (Windows): `OpenChatSetup.exe`
-- OpenChat Installer (macOS): `OpenChat.dmg`
+- OpenChat Installer (Windows): `OpenChatSetup.exe`,download link: https://metabrain.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup.exe
+- OpenChat Installer (macOS_IntelChip): `OpenChat.dmg`,download link: https://metabrain.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_Intel.dmg.zip
 
 #### Step 2: Install OpenChat Client
 After downloading `OpenChatSetup.exe`, double-click the file, accept the user agreement, select the installation path (e.g., `X:\...\OpenChat`), and wait for the automatic installation to complete.
