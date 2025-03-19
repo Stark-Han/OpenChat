@@ -72,8 +72,8 @@ OpenChat为客户端应用，提供一种基于大模型对话式交互模式，
 ### 2. 安装
 #### 步骤1：下载OpenChat安装包
 * OpenChat使用指南（本文档），提供下载、安装、操作指南；
-* OpenChat安装包（Windows），OpenChatSetup.exe，客户端软件；
-* OpenChat安装包（Apple），OpenChat.dmg，客户端软件；
+* OpenChat安装包（Windows），OpenChatSetup.exe，客户端软件,下载链接：https://metabrain.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup.exe ；
+* OpenChat安装包（Mac_Intel芯片），OpenChat.dmg，客户端软件,下载链接：https://metabrain.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_Intel.dmg.zip ；
 
 #### 步骤2：OpenChat客户端安装
 完成应用程序（OpenChatSetup.exe）下载后，双击文件并同意用户使用协议，选择安装路径（自定义安装路径X:\\...\OpenChat），等待OpenChat自动安装程序完成。
