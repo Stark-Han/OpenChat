@@ -19,7 +19,7 @@
     <img src="data/images/win.png" alt="Windows 下载（64位）" style="height: 48px;" />
   </a>
 
-  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_AppleSilicon.dmg">
+  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg">
     <img src="data/images/apple.png" alt="MacOS 下载（Apple 芯片）" style="height: 48px;" />
   </a>
 
