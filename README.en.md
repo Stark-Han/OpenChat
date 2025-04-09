@@ -16,7 +16,7 @@ Here is the client installation package officially released by OpenChat. It is o
     <img src="data/images/win_en.png" alt="Windows（64-bit）" style="height: 48px;" />
   </a>
 
-  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_AppleSilicon.dmg">
+  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg">
     <img src="data/images/apple_en.png" alt="MacOS（Apple Silicon）" style="height: 48px;" />
   </a>
 
