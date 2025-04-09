@@ -6,38 +6,33 @@
 
 这里是OpenChat官方发布的安装包，对于广大用户而言，官方版本不仅提供了超便捷的安装流程，让你省去繁琐步骤，轻松上手，还能确保你在第一时间获取最新功能。点击下方链接，选择适配自己设备的安装包，开启 OpenChat 的奇妙之旅！
 
+
+
+
 ### 客户端下载
-<table style="width: 100%">
-  <tr>
-    <td width="25%" align="center">
-      <b>Windows</b>
-    </td>
-    <td width="25%" align="center">
-      <b>MacOS</b>
-    </td>
-    
-  </tr>
-  <tr style="text-align: center">
-    <td align="center" valign="middle">
-      <a href='https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe'>
-        <img src='./data/images/windows.png' style="height:30px; width: 30px" />
-        <br />
-        <b>Setup.exe</b>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href='https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg'>
-        <img src='./data/images/MAC.png' style="height:35px; width: 35px" />
-        <br />
-        <b>Intel芯片</b>
-      </a>
-    </td>
-    
-    
-  </tr>
-</table>
+
+<br>
 
 
+
+<div style="display: flex; justify-content: center; gap: 32px; margin-top: 24px;">
+
+  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe">
+    <img src="data/images/win.png" alt="Windows 下载（64位）" style="height: 48px;" />
+  </a>
+
+  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg">
+    <img src="data/images/apple.png" alt="MacOS 下载（Apple 芯片）" style="height: 48px;" />
+  </a>
+
+  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg">
+    <img src="data/images/intel.png" alt="MacOS 下载（Intel 芯片）" style="height: 48px;" />
+  </a>
+
+</div>
+
+
+<br>
 
 ---
 
