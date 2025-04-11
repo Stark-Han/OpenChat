@@ -31,7 +31,7 @@ If you encounter an error when launching OpenChat for the first time on macOS—
 
 This is caused by macOS security mechanisms blocking the app.
 
-👉 Please refer to the 《[macOS Launch Fix Guide](doc/intro/Mac_en.md)》.  
+👉 Please refer to the 《[macOS Launch Fix Guide](doc/intro/MAC_en.md)》.  
 Simply follow the steps once, and OpenChat will run normally.
 
 You can select the installation package suitable for your device in the link below to download:
