@@ -1,49 +1,48 @@
-<p align="right">
+<br />
+<div align="center">
+  <a>
+    <img src="./data/images/OpenChat_logo.png" alt="Logo" width="160" height="160">
+  </a>
+
+  <p align="center">
+    Open Source LLMs Chat Application
+
+  </p>
+
   中文 | <a href="./README.en.md">English</a> 
-
-
-断网时如何使用AI大模型？还在为寻找优质、便捷的AI客户端应用而烦恼？这款 OpenChat 不容错过！支持众多先进的 AI 模型和 API，可在 Windows、MacOS上使用。
-
-这里是OpenChat官方发布的安装包，对于广大用户而言，官方版本不仅提供了超便捷的安装流程，让你省去繁琐步骤，轻松上手，还能确保你在第一时间获取最新功能。点击下方链接，选择适配自己设备的安装包，开启 OpenChat 的奇妙之旅！
-
-
-
-
-### 客户端下载
-
-<br>
-
-
-
-<div style="display: flex; justify-content: center; gap: 32px; margin-top: 24px;">
-
-  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe">
-    <img src="data/images/win.png" alt="Windows 下载（64位）" style="height: 48px;" />
-  </a>
-
-  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg">
-    <img src="data/images/apple.png" alt="MacOS 下载（Apple 芯片）" style="height: 48px;" />
-  </a>
-
-  <a href="https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg">
-    <img src="data/images/intel.png" alt="MacOS 下载（Intel 芯片）" style="height: 48px;" />
-  </a>
 
 </div>
 
 
-<br>
-
----
-
 
 # OpenChat - 你的一站式AI平台
 
-
+---
 
 OpenChat为客户端应用，提供一种基于大模型对话式交互模式，可以让用户很轻松的使用多种 AI 大模型，进行知识问答、网络信息检索、知识库以及文档对话等功能。
 
+这里是 OpenChat 官方发布的客户端安装包，支持多平台快速安装使用。对于大多数用户而言，推荐直接使用我们提供的官方版本，安装简单方便，并确保能够体验最新最全的功能。你可以在下方链接中选择适合你设备的安装包进行下载：
+
+OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开源，您所有的聊天记录和文件皆存在本地，如果您在Mac系统环境下首次打开 OpenChat 应用时遇到类似：**“无法打开，因为它来自身份不明的开发者”** 或 **“文件已损坏，您应该将其移到废纸篓”** 的问题，这是因为 macOS 的安全机制阻止了 App 运行。请点击 《[MacOS拦截修复指南](doc/intro/MAC运行.md)》，只需按照步骤设置一次，即可正常运行 OpenChat 应用。
+
+
+### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
+
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe) (Installer)
+
+
+
+### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
+
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg) (Apple Silicon)
+- [OpenChat.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg) (Intel chips)
+
+
+<br>
+<br>
+
 ![](./data/images/intro/主页.png)
+
 
 ---
 
