@@ -13,7 +13,8 @@
 
 </div>
 
-
+# Welcome Your feedback
+We welcome you to actively participate and offer valuable feedback and suggestions for the project. Please leave comments in the project's issue area. Looking forward to building a greater open - source project with you.
 
 # OpenChat - Your All-in-One AI Platform
 
