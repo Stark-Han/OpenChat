@@ -17,8 +17,8 @@
 # OpenChat - Your All-in-One AI Platform
 
 👉 [📅 OpenChat v1.0.2 Changelog (May 8, 2025)](#-changelog--openchat-v102)
----
 
+<br>
 Here is the client installation package officially released by OpenChat. It is open source based on the MIT protocol and supports fast installation and use on multiple platforms. For most users, it is recommended to directly use the official version provided by us. The installation is simple and convenient, and it ensures that you can experience the latest and most complete functions. 
 
 **OpenChat** does **not collect any of your personal information**.  
