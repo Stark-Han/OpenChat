@@ -13,12 +13,15 @@
 
 </div>
 
+**Rencent Updates: 👉**  [📅 OpenChat v1.0.2 Changelog (May 8, 2025)](#-changelog--openchat-v102)
+
+<br>
 
 # OpenChat - Your All-in-One AI Platform
 
-👉 [📅 OpenChat v1.0.2 Changelog (May 8, 2025)](#-changelog--openchat-v102)
+---
 
-<br>
+
 Here is the client installation package officially released by OpenChat. It is open source based on the MIT protocol and supports fast installation and use on multiple platforms. For most users, it is recommended to directly use the official version provided by us. The installation is simple and convenient, and it ensures that you can experience the latest and most complete functions. 
 
 **OpenChat** does **not collect any of your personal information**.  
@@ -39,14 +42,14 @@ You can select the installation package suitable for your device in the link bel
 
 ### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe) (Installer)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_win.exe) (Installer)
 
 
 
 ### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg) (Apple Silicon)
-- [OpenChat.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg) (Intel chips)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_apple.dmg) (Apple Silicon)
+- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_intel.dmg) (Intel chips)
 
 
 <br>
