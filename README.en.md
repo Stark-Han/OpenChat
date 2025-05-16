@@ -13,11 +13,10 @@
 
 </div>
 
-# Welcome Your feedback
-We welcome you to actively participate and offer valuable feedback and suggestions for the project. Please leave comments in the project's issue area. Looking forward to building a greater open - source project with you.
 
 # OpenChat - Your All-in-One AI Platform
 
+👉 [📅 OpenChat v1.0.2 Changelog (May 8, 2025)](#-changelog--openchat-v102)
 ---
 
 Here is the client installation package officially released by OpenChat. It is open source based on the MIT protocol and supports fast installation and use on multiple platforms. For most users, it is recommended to directly use the official version provided by us. The installation is simple and convenient, and it ensures that you can experience the latest and most complete functions. 
@@ -122,6 +121,19 @@ This is a major update that introduces three core features: **Agent System**, **
 ---
 
 ### ✨ New Highlights
+
+
+####  Qwen3 Model Support
+
+- ✅ **Supports the newly released Qwen3 large language model**:
+  -  Available on platforms:
+    -  **SiliconFlow**
+    -  **Alibaba Cloud BaiLian**
+    -  **WuWenXinQiong**
+  -  Local deployment:
+    - Easily run **Qwen3** using [**Ollama**](https://ollama.com)
+    - See: **Settings → Ollama Options** for configuration
+
 
 #### 🤖 Agent System
 
