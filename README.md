@@ -1,4 +1,5 @@
 <br />
+[📅 OpenChat v1.0.2 更新日志（2025-05-15）](#-更新日志)
 <div align="center">
   <a>
     <img src="./data/images/OpenChat_logo.png" alt="Logo" width="160" height="160">
@@ -14,7 +15,7 @@
 </div>
 
 
-[📅 OpenChat v1.0.2 更新日志（2025-05-15）](#-更新日志)
+
 
 # OpenChat - 你的一站式AI平台
 
