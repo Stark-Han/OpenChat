@@ -1,5 +1,7 @@
-<br />
 [📅 OpenChat v1.0.2 更新日志（2025-05-15）](#-更新日志)
+
+
+<br />
 <div align="center">
   <a>
     <img src="./data/images/OpenChat_logo.png" alt="Logo" width="160" height="160">
