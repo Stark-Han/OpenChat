@@ -22,7 +22,7 @@
 ---
 
 
--  **[📅 OpenChat v1.0.2 更新日志（2025-05-15）](#-更新日志)**
+-  **[📅 OpenChat v1.0.2 更新日志（2025-05-15）👉](#-更新日志)**
 
 
 
@@ -41,14 +41,14 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 
 ### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe) (Installer)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_win.exe) (Installer)
 
 
 
 ### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg) (Apple Silicon)
-- [OpenChat.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg) (Intel chips)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_apple.dmg) (Apple Silicon)
+- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_intel.dmg) (Intel chips)
 
 
 <br>
