@@ -13,7 +13,11 @@
 
 </div>
 
-**Rencent Updates: 👉**  [📅 OpenChat v1.0.2 Changelog (May 8, 2025)](#-changelog--openchat-v102)
+# **🔥 Rencent Updates**  
+
+---
+
+- ####  [📅 OpenChat v1.0.2 Changelog (May 8, 2025)👉](#-changelog--openchat-v102)
 
 <br>
 
