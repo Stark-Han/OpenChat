@@ -249,7 +249,7 @@ Mac版OpenChat.dmg打开后将看到OpenChat.app，将其拖动到应用文件�
 
 ### 3. 使用
 
-关于客户端配置流程，程序具体功能的讲解和使用说明，请参照 <a href="./doc/intro/使用指南.md">OpenChat使用指南</a> 。
+关于客户端配置流程，程序具体功能的讲解和使用说明，请参照 《<a href="./doc/intro/使用指南.md">OpenChat使用指南</a> 》。
 
 <br>
 
