@@ -13,7 +13,20 @@
 
 </div>
 
- :love_letter: 欢迎您踊跃参与，为项目提供宝贵的反馈、建议。您的每条反馈都是我们前进的动力，每个建议都有助于完善项目。大家共同参与，推动项目发展，让它更贴合用户需求，更具创新与实用性。请在项目issue区留言，期待你与我们携手共建更出色的开源项目。 :rocket: 
+
+
+
+
+## 🎉 最近更新
+
+---
+
+
+-  **[📅 OpenChat v1.0.2 更新日志（2025-05-15）👉](#-更新日志)**
+
+
+
+<br>
 
 # OpenChat - 你的一站式AI平台
 
@@ -28,14 +41,14 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 
 ### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetupV1.0.1.exe) (Installer)
+- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_win.exe) (Installer)
 
 
 
 ### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat_apple.dmg) (Apple Silicon)
-- [OpenChat.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChat.dmg) (Intel chips)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_apple.dmg) (Apple Silicon)
+- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_intel.dmg) (Intel chips)
 
 
 <br>
@@ -43,6 +56,41 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 
 ![](./data/images/intro/主页.png)
 
+
+
+## 目录导航
+
+---
+
+
+- [功能亮点](#功能亮点)
+
+  - [智能 AI 助手平台](#智能-ai-助手平台)
+  - [多功能智能助手](#多功能智能助手)
+  - [信息检索与知识管理](#信息检索与知识管理)
+  - [实用工具与扩展功能](#实用工具与扩展功能)
+
+- [即将实现的功能](#即将实现的功能)
+
+- [更新日志](#更新日志)
+  - [OpenChat v1.0.2](#openchat-v102)
+    - 《[OpenChat_v1.0.2 新功能指南](./doc/intro/v1.0.2.md)》
+  - [模型支持更新](#模型支持更新)
+  - [智能体系统](#智能体系统agent-system)
+  - [沉浸式翻译模块](#ai沉浸式翻译模块immersive-translation)
+  - [自动更新功能](#自动更新功能)
+
+- [配置与使用](#配置与使用)
+  - [1. 配置要求](#1-配置要求)
+  - [2. 安装与使用](#2-安装)  
+    - 《<a href="./doc/intro/使用指南.md">OpenChat使用指南</a>》
+
+- [打包与部署](#打包与部署)
+  - [macOS 打包指南](#macos-打包指南)
+  - [Windows 打包指南](#windows-打包指南)
+  - [说明](#说明)
+
+- 《[MacOS 安全机制拦截修复说明](doc/intro/MAC运行.md)》👈 打开应用出现“无法打开”或“文件已损坏”提示时，请点击
 
 ---
 
@@ -100,6 +148,89 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 
 ---
 
+### 📝 更新日志
+
+#### OpenChat v1.0.2
+
+> 发布日期：2025年5月8日  
+> 版本代号：v1.0.2
+
+这是一次重要更新，新增三大核心功能：**智能体系统**、**沉浸式翻译模块** 和 **自动更新支持**，并加入了最新发布的 “Qwen3” 模型支持，显著提升了 OpenChat 的个性化能力、多语言处理能力以及整体使用体验。
+
+---
+
+### ✨ 新功能亮点
+
+####  🌌 模型支持更新
+
+新增支持最新发布的 **Qwen3** 推理语言大模型：
+  - ☁️ 可通过以下平台在线体验：
+    -  **硅基流动**
+    -  **阿里云百炼**
+    -  **无问芯穹**
+  - 🖥️ 本地部署支持：
+    - 使用 **Ollama** 快速运行 Qwen3 模型
+    - 详见：**设置 → Ollama选项** 页面查看部署说明
+
+#### 🤖 智能体系统（Agent System）
+
+用户现在可以自主创建和管理个性化的智能体，赋予其独特的行为逻辑：
+
+- **自定义智能体**：填写名称、分类、行为描述和系统提示词，快速创建属于你的专属智能体。
+
+- **预制智能体助手**：无需配置，点击即可启用如编程助手、学习助手、产品经理等专业智能体，提升效率。
+
+- **智能体会话窗口**：每个智能体拥有独立对话空间，支持模型切换、上下文记忆和提示推荐。
+
+
+
+#### 🌐 AI沉浸式翻译模块（Immersive Translation）
+
+一体化文档翻译与文本翻译体验，支持中/英/日/韩/法五种语言互译：
+
+- **支持多种文件格式**：可上传 PDF、DOCX、TXT 文件，自动识别并翻译其内容。
+
+- **沉浸式界面布局**：
+  - **左侧**：文件翻译历史与状态管理
+  - **右侧**：文本翻译、术语表配置与历史记录集成
+
+- **灵活视图模式**：
+  - 原文与译文并列展示
+  - 仅显示译文内容
+  - 可选开启同步滚动功能，提升阅读体验
+
+
+
+#### 🔄 自动更新功能
+
+OpenChat 现已支持自动更新，无需手动下载新版本：
+
+- **启动时自动检测更新**：每次打开客户端时会后台检查是否有新版。
+- **弹窗提示**：如有更新，将弹出对话框，展示版本号、更新时间与更新内容。
+- **一键更新流程**：
+  1. 自动下载新版本
+  2. 自动替换旧应用
+  3. 自动重新打开 OpenChat
+
+⚠️ 在 macOS 系统下，更新过程中会弹出权限请求提示，需用户授权确认安装。
+
+---
+
+### 🛠 其他优化项
+
+- 智能体与翻译模块现已支持状态记忆
+- 修复了多平台下模型切换异常问题
+- 提升了多语言界面提示与组件适配稳定性
+
+---
+
+### 📌 如何查看更新日志
+
+- 查看完整版本内容与操作指南 👉 [查看更新日志](./doc/intro/v1.0.2.md)
+
+---
+
+
 ## 💻  配置与使用
 
 ### 1. 配置要求
@@ -118,7 +249,7 @@ Mac版OpenChat.dmg打开后将看到OpenChat.app，将其拖动到应用文件�
 
 ### 3. 使用
 
-关于客户端配置流程，程序具体功能的讲解和使用说明，请参照 <a href="./doc/intro/使用指南.md">OpenChat使用指南</a> 。
+关于客户端配置流程，程序具体功能的讲解和使用说明，请参照 《<a href="./doc/intro/使用指南.md">OpenChat使用指南</a> 》。
 
 <br>
 
@@ -182,3 +313,7 @@ Mac版OpenChat.dmg打开后将看到OpenChat.app，将其拖动到应用文件�
 - **如果打包后缺少依赖，请检查 `site-packages` 并手动补充**。
 - **Windows 版本建议使用 Inno Setup 进行安装包封装**。
 - **对于 Mac 和 Windows，可使用代码签名提升安全性**。
+
+
+
+
