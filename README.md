@@ -41,14 +41,14 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 
 ### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
 
-- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_win.exe) (Installer)
+- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.3_win.exe) (Installer)
 
 
 
 ### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_apple.dmg) (Apple Silicon)
-- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_intel.dmg) (Intel chips)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.3_apple.dmg) (Apple Silicon)
+- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.3_intel.dmg) (Intel chips)
 
 
 <br>
@@ -82,22 +82,29 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 ---
 
 ## 功能亮点
+<a name="智能-ai-助手平台"></a>
 
 ### 🚀 **智能 AI 助手平台**  
 
 - 🌐 **兼容主流云端大模型**：如 OpenAI、Deepseek、硅基流动等  
 - 🔗 **集成热门 AI 平台**：腾讯云、百度千帆云、Kimi Ai、智谱清言等  
-- 🖥 **支持本地化模型部署**：适配 Ollama，服务器部署等本地运行方案  
+- 🖥 **支持本地化模型部署**：适配 Ollama，服务器部署等本地运行方案
+
+<a name="多功能智能助手"></a>
 
 ### 🧠 **多功能智能助手**  
 - 🤖 **智能助手应用**：集成Kimi，秘塔AI搜索，文心一言，豆包等应用，让你一站式访问国内多个大模型平台
 - 🔍 **敏感词检测**：精准识别敏感内容，确保文本合规  
 - 📚 **知识问答**：智能解析各类文件，快速提供可靠解答  
 
+<a name="信息检索与知识管理"></a>
+
 ### 🌍 **强大信息检索与知识管理**  
 - 🔗 **网络信息检索**：实时查找最新数据，助力决策分析  
 - 📖 **智能知识库**：个性化知识存储，便捷管理、随时调用  
 - 📝 **文档对话**：支持文本、PDF、word、ppt交互式问答，高效阅读  
+
+<a name="实用工具与扩展功能"></a>
 
 ###  🧩 **实用工具与扩展功能**  
 - 🔎 **智能搜索**：快速定位信息，提高工作效率  
