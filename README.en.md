@@ -17,6 +17,7 @@
 
 ---
 
+- ####  [📅 OpenChat v1.0.4 Changelog (Aug 1, 2025)👉](#-changelog--openchat-v102)
 - ####  [📅 OpenChat v1.0.3 Changelog (June 20, 2025)👉](#-changelog--openchat-v102)
 - ####  [📅 OpenChat v1.0.2 Changelog (May 8, 2025)👉](#-changelog--openchat-v102)
 
@@ -47,14 +48,14 @@ You can select the installation package suitable for your device in the link bel
 
 ### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
 
-- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_win.exe) (Installer)
+- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.4_win.exe) (Installer)
 
 
 
 ### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_apple.dmg) (Apple Silicon)
-- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.2_intel.dmg) (Intel chips)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.4_apple.dmg) (Apple Silicon)
+- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.4_intel.dmg) (Intel chips)
 
 
 <br>
@@ -118,6 +119,22 @@ You can select the installation package suitable for your device in the link bel
 More features coming soon...
 
 ---
+
+## 📝 Changelog | OpenChat v1.0.3
+
+> Release Date: August 1, 2025
+> Version Code: v1.0.4
+
+This update focuses on **practical enhancements**, continuing to expand our model ecosystem, improve deployment flexibility, and refine frequently used features. We’ve added support for new models such as **Kimi-k2** and **Step-2**, and integrated platforms like **OpenRouter** and **Volcengine**, broadening usage scenarios. New capabilities like **server deployment cloning** and **custom cache directory** significantly improve multi-instance management and resource control. PDF translation layout has been further optimized, and UI details like text selection and model jump settings are smoother than ever. OpenChat is becoming more stable, controllable, and powerful.
+
+We’ve also noticed that some Mac users may experience issues with the online update mechanism in version 1.0.3. If you click “Restart Now” after downloading the update but still see an update prompt, **please do not click repeatedly**, as it may waste your time. Instead, go to:
+
+`/Users/YourUsername/openchat/download/Openchat.dmg`
+
+Open the file and manually run **OpenchatV1.0.4Updater** to complete the update.
+Thank you for your continued support — we sincerely apologize for the inconvenience.
+
+For more details of New version and Manual Update please visit 《[v1.0.4 Update Info](doc/intro/updateguide.md)》
 
 ## 📝 Changelog | OpenChat v1.0.3
 

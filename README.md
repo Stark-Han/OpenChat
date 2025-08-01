@@ -20,6 +20,7 @@
 ## 🎉 最近更新
 
 ---
+-  **[📅 OpenChat v1.0.4 更新日志（2025-08-01）👉](#-更新日志)**
 
 -  **[📅 OpenChat v1.0.3 更新日志（2025-06-20）👉](#-更新日志)**
 
@@ -41,14 +42,13 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 
 ### <img src="./data/images/microsoft.png" alt="Logo" width="28" height="28"> Download Windows Installer 
 
-- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.3_win.exe) (Installer)
-
+- [OpenChat_windows.exe](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.4_win.exe) (Installer)
 
 
 ### <img src="./data/images/apple.png" alt="Logo" width="28" height="28"> Download MacOS Installer
 
-- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.3_apple.dmg) (Apple Silicon)
-- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.3_intel.dmg) (Intel chips)
+- [OpenChat_apple.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.4_apple.dmg) (Apple Silicon)
+- [OpenChat_intel.dmg](https://fastaistack.oss-cn-beijing.aliyuncs.com/openchat/OpenChatSetup_v1.0.4_intel.dmg) (Intel chips)
 
 
 <br>
@@ -143,6 +143,23 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 <a name="更新日志"></a>
 ### 📝 更新日志
 
+#### OpenChat v1.0.4
+
+> 发布日期：2025年8月1日  
+> 版本代号：v1.0.4
+
+这是一次以实用性为核心的更新，我们持续拓展模型生态、增强部署灵活性，并优化用户常用功能细节。本次更新支持了全新模型如 **Kimi-k2** 和 **Step-2**，新增对 **OpenRouter** 和 **火山引擎** 平台的接入，进一步丰富了使用场景。同时引入 **服务器部署克隆** 功能和 **自定义缓存目录**，极大提升了多实例管理与资源控制的自由度。PDF翻译效果与排版也得到了明显优化，对话文本选中、模型跳转等细节功能更加顺滑。OpenChat 正在变得更加稳定、可控和强大。
+
+我们注意到部分Mac用户的1.0.3版本的在线更新可能存在问题，如您下载完更新点击“立即重启”后仍提示更新，请不要重复点击更新以免耽误您的宝贵时间，可在访达下用户一栏中找到：
+
+`您的用户名/openchat/download/Openchat.dmg`
+
+打开，并双击 OpenchatV1.0.4Updater 进行手动更新，感谢一直以来对OpenChat的支持，对此给您造成的不便敬请谅解。
+
+详细更新日志以及手动更新教程请访问 《[v1.0.4更新内容](doc/intro/更新指南.md)》
+
+---
+
 #### OpenChat v1.0.3
 
 > 发布日期：2025年6月20日  
@@ -163,18 +180,45 @@ OpenChat 声明不会收录您的任何个人信息，源码基于MIT协议开�
 <a name="新功能亮点"></a>
 ### ✨ 新功能亮点
 
-####  🌌 模型支持更新
+#### 🌌 模型支持更新
 
-新增支持最新发布的 **Qwen3** 推理语言大模型：
-  - ☁️ 可通过以下平台在线体验：
-    -  **硅基流动**
-    -  **阿里云百炼**
-    -  **无问芯穹**
-  - 🖥️ 本地部署支持：
-    - 使用 **Ollama** 快速运行 Qwen3 模型
-    - 详见：**设置 → 模型设置 → Ollama选项** 页面查看部署说明
+**🆕 v1.0.4 新增支持**
 
-V1.0.3版本新增了对专注嵌入式模型的平台 - **Jina** 的支持，用户可以在模型设置中添加API—KEY后，在网络检索/知识库功能中使用。
+*  新增对 **Kimi-k2** 与 **Step-2** 大语言模型的支持，具备更强的推理与对话能力。
+*  模型平台接入进一步扩展：
+
+  * **OpenRouter**：支持多模型 API 统一接入，灵活配置切换。
+  * **火山引擎**：集成官方平台，可直接调用开通的模型服务。
+* 更多平台支持**自定义模型添加**：
+
+  * 包括 OpenRouter、Jina、阿里云百炼等，支持用户通过 API Key 添加任意支持的模型，实现统一调度与调用。
+* 模型管理体验升级：
+
+  * 模型列表点击后支持跳转至对应设置页面，便于快速调整参数或替换 API。
+
+---
+
+**📌 v1.0.3 已支持模型回顾**
+
+支持最新发布的 **Qwen3** 推理语言模型：
+
+  * 可通过以下平台在线体验：
+
+    * **硅基流动**
+    * **阿里云百炼**
+    * **无问芯穹**
+  * 本地部署支持：
+
+    * 使用 **Ollama** 快速运行 Qwen3 模型
+    * 路径：**设置 → 模型设置 → Ollama选项** 查看部署说明
+
+新增对嵌入式模型平台 **Jina** 的支持：
+
+  * 在模型设置中添加 API Key 后，可在网络检索与知识库功能中调用 Jina 嵌入模型。
+
+---
+
+如需进一步查看平台接入方式和模型部署指南，请前往 **设置 → 模型设置** 页面。更多模型支持仍在持续拓展中，敬请期待。
 
 #### 🌐 全局参数设置（V1.0.3更新）
 
